@@ -36,7 +36,7 @@ Inicie o ambiente de desenvolvimento:
 npm run dev
 ```
 
-Para gerar a versão de produção:
+Para gerar a versão final:
 
 ```bash
 npm run build
